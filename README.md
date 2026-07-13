@@ -63,12 +63,6 @@ The Student Performance Dashboard is an interactive Excel-based analytics projec
 - Excel Analytics
 - Business Intelligence Reporting
 
----
 
-🎯 Project Outcome
-
-This dashboard transforms raw student data into actionable insights, enabling users to monitor academic performance, identify trends, and make data-driven decisions through an interactive and visually appealing interface.
-
----
 
 
