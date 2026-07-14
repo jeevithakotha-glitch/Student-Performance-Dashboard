@@ -42,7 +42,7 @@ The Student Performance Dashboard is an interactive Excel-based analytics projec
 
 ---
 
-📈 Key Insights
+ Key Insights
 
 - Achieved an overall 93% Pass Rate.
 - Analyzed academic performance data for 1,000 students.
@@ -53,7 +53,7 @@ The Student Performance Dashboard is an interactive Excel-based analytics projec
 
 ---
 
-💡 Skills Demonstrated
+ Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
